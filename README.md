@@ -78,7 +78,7 @@ Contoh output:
 
 ```bash
 git clone https://github.com/Reyeis/uasdow.git
-cd waifu-matcher-ai
+cd uasdow
 ```
 
 ### 2. Install Dependensi
