@@ -111,7 +111,7 @@ Kenapa cocok? → Tatapanmu tajam dan tenang, cocok dengan Albedo yang setia dan
 
 ## 🔗 Link Tugas (GitHub Repo)
 
-👉 [https://github.com/namakamu/waifu-matcher-ai](https://github.com/namakamu/waifu-matcher-ai)
+👉 [https://github.com/namakamu/waifu-matcher-ai](https://github.com/Reyeis/uasdow)
 
 ---
 
